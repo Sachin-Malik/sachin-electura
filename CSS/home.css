@@ -1,0 +1,132 @@
+body {
+  font-family: 'Montserrat', sans-serif;
+}
+
+h1 {
+  font-family: 'Montserrat', sans-serif;
+  font-weight: 900;
+  font-size: 48px;
+}
+
+.sub-heading {
+  font-family: 'Noto Sans JP', sans-serif;
+  font-weight: 300;
+}
+
+.container-fluid {
+  margin: 0;
+  padding: 0;
+}
+
+.b-text {
+  color: #6c757d;
+}
+
+.temp-margin {
+  padding: 5% 15%;
+}
+
+#navbar-my {
+  padding: 2% 15%;
+  background: #4534aa;
+}
+
+.navbar {
+  padding: 0.5rem 0rem;
+  font-weight: 300;
+}
+
+.navbar-nav {
+  color: #fff;
+}
+
+/* MAIN SECTION AND EVERYTHING IN MAIN */
+#main {
+  padding: 8% 15%;
+  padding-top: 3%;
+  background: #4534aa;
+  color: #fff;
+}
+
+.btn-explore {
+  color: #fff;
+  border: 1px solid #fff;
+}
+
+.btn-explore:hover {
+  color: #4534aa;
+  background: #fff;
+  border: 1px solid #fff;
+}
+
+#goal {
+  padding: 5% 15%;
+}
+
+.boot-icon {
+  color: #6C63FF;
+}
+
+#wwp {
+  padding: 5% 15%;
+  padding-bottom: 15%;
+}
+
+.card {
+  border: none;
+}
+
+.card-img {
+  padding: 10%;
+  width: 100%;
+  margin-bottom: 1.25rem;
+  height: 180px;
+  background-color: #d6d1f5;
+}
+
+.card-body {
+  padding: 0px;
+}
+
+mark {
+  font-family: 'Noto Sans JP', sans-serif;
+  font-weight: 300;
+}
+
+#banner {
+  padding: 5% 15%;
+  background-color: #d6d1f5;
+}
+
+#testimonials {
+  width: 100%;
+  padding: 5% 5%;
+  background: #f8f9fa;
+}
+
+.person-pin {
+  border-radius: 50%;
+  height: 75px;
+  weight: 75px;
+}
+
+#footer {
+  padding: 5% 5%;
+  background: #4534aa;
+}
+
+.my-list-style {
+  list-style: none;
+  padding-left: 0;
+}
+
+footer {
+  color: #fff;
+}
+
+.footer-heading {
+  letter-spacing: .2rem;
+  font-family: 'Montserrat', sans-serif;
+  font-weight: 800;
+  /* background-image: url(); */
+}
