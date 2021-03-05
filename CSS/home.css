@@ -1,5 +1,7 @@
 body {
   font-family: 'Montserrat', sans-serif;
+  background-image: url("../assets/wavetop2.svg");
+  background-repeat: no-repeat;
 }
 
 h1 {
@@ -28,7 +30,7 @@ h1 {
 
 #navbar-my {
   padding: 2% 15%;
-  background: #4534aa;
+  /* background: #4534aa; */
 }
 
 .navbar {
@@ -44,19 +46,19 @@ h1 {
 #main {
   padding: 8% 15%;
   padding-top: 3%;
-  background: #4534aa;
-  color: #fff;
+  /* background: #4534aa; */
+  /* color: #fff; */
 }
 
 .btn-explore {
-  color: #fff;
-  border: 1px solid #fff;
+  color: #4534aa;
+  border: 1px solid #4534aa;
 }
 
 .btn-explore:hover {
-  color: #4534aa;
-  background: #fff;
-  border: 1px solid #fff;
+  color: #fff;
+  background: #4534aa;
+  border: 1px solid #4534aa;
 }
 
 #goal {
@@ -102,6 +104,9 @@ mark {
   width: 100%;
   padding: 5% 5%;
   background: #f8f9fa;
+  background-image: url("../assets/wave2.svg");
+  background-repeat: no-repeat;
+  background-position: bottom;
 }
 
 .person-pin {
